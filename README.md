@@ -15,7 +15,7 @@
 
 ## 🛠️ Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=html,css,react,ts,js,tailwind,figma,python,mysql,c,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,react,ts,vercel,js,tailwind,figma,python,mysql,c,git,github" />
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aayushaa-ghimire&show_icons=true&theme=tokyonight)
 
 ---
 

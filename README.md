@@ -15,7 +15,7 @@
 
 ## 🛠️ Languages & Tools
 
-<img src="https://skillicons.dev/icons?i=html,css,react,ts,vercel,js,tailwind,figma,python,mysql,c,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,react,ts,vercel,redux,js,tailwind,figma,python,mysql,c,git,github" />
 
 ---
 

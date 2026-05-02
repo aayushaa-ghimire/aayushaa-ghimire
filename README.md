@@ -1,6 +1,7 @@
 # Hi 👋 I'm Aayusha 
 
 
+---
 
 ## 🛠️ Languages & Tools
 

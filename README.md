@@ -1,17 +1,4 @@
 # Hi 👋 I'm Aayusha 
-💻 Frontend Developer | BIT Student  
-🌱 Currently learning React & TypeScript  
-🎯 Focused on building clean and responsive web apps  
-
----
-
-## 🚀 About Me
-- 🎓 BIT student from Kathmandu  
-- 💡 Interested in frontend development  
-- ⚛️ Learning React and modern web tools  
-- 🧠 Love building UI and improving design skills  
-
----
 
 ## 🛠️ Languages & Tools
 

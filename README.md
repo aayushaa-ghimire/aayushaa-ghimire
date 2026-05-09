@@ -1,7 +1,7 @@
 # 💫 About Me
 
 Hi 👋 I'm Aayusha  
-Frontend Developer Intern from Nepal 🇳🇵  
+Frontend Developer from Nepal 🇳🇵  
 
 I enjoy building clean and responsive web applications,  
 exploring UI/UX design, and turning ideas into interactive experiences.

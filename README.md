@@ -16,9 +16,7 @@ exploring UI/UX design, and turning ideas into interactive experiences.
   <img src="https://streak-stats.demolab.com?user=aayushaa-ghimire&theme=dark&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushaa-ghimire&theme=github_dark&hide_border=true&layout=compact"/>
-</p>
+
 
 ---
 ## 🌐 Connect With Me

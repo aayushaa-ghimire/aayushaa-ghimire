@@ -12,8 +12,6 @@ exploring UI/UX design, and turning ideas into interactive experiences.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aayushaa-ghimire&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-
-  <img src="https://streak-stats.demolab.com?user=aayushaa-ghimire&theme=dark&hide_border=true" height="170"/>
 </p>
 
 
@@ -60,7 +58,6 @@ exploring UI/UX design, and turning ideas into interactive experiences.
   <img src="https://img.shields.io/badge/Canva-111111?style=for-the-badge&logo=Canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Trello-111111?style=for-the-badge&logo=Trello&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cisco-111111?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
 

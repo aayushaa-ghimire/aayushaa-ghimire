@@ -6,17 +6,25 @@ Frontend Developer from Nepal 🇳🇵
 I enjoy building clean and responsive web applications,  
 exploring UI/UX design, and turning ideas into interactive experiences.
 
-
 ---
-
 
 <p align="center">
-   <img src="https://streak-stats.demolab.com?user=aayushaa-ghimire&theme=dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aayushaa-ghimire&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=aayushaa-ghimire&theme=dark&hide_border=true" height="170"/>
 </p>
 
+---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aayushaa-ghimire&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="aayushaa-ghimire" />
+  </a>
+</p>
 
 ---
+
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -58,14 +66,4 @@ exploring UI/UX design, and turning ideas into interactive experiences.
   <img src="https://img.shields.io/badge/Canva-111111?style=for-the-badge&logo=Canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=notion&logoColor=white"/>
   <img src="https://img.shields.io/badge/Trello-111111?style=for-the-badge&logo=Trello&logoColor=white"/>
-</p>
-
-
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aayushaa-ghimire&theme=onestar&no-frame=true&no-bg=true&margin-w=8"/>
 </p>

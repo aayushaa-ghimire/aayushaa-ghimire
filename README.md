@@ -9,8 +9,8 @@ exploring UI/UX design, and turning ideas into interactive experiences.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayushaa-ghimire&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=aayushaa-ghimire&theme=dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aayushaa-ghimire&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=aayushaa-ghimire&theme=dark&hide_border=true" height="170" alt="GitHub Streak" />
 </p>
 
 ---
@@ -18,9 +18,7 @@ exploring UI/UX design, and turning ideas into interactive experiences.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aayushaa-ghimire&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="aayushaa-ghimire" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=aayushaa-ghimire&theme=onedark&no-frame=true&no-bg=true" alt="aayushaa-ghimire trophies" />
 </p>
 
 ---

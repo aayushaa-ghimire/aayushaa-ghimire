@@ -18,7 +18,7 @@ exploring UI/UX design, and turning ideas into interactive experiences.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy-alpha.vercel.app/?username=aayushaa-ghimire&theme=onedark&no-frame=true&no-bg=true&title=Commit,PullRequest,Repository,MultipleRepository,Upvotes&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-alpha.vercel.app/?username=aayushaa-ghimire&theme=onedark&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---

@@ -10,7 +10,6 @@ exploring UI/UX design, and turning ideas into interactive experiences.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aayushaa-ghimire&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=aayushaa-ghimire&theme=dark&hide_border=true" height="170" alt="GitHub Streak" />
 </p>
 
 ---

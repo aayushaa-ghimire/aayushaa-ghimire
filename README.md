@@ -6,15 +6,7 @@ Frontend Developer from Nepal 🇳🇵
 I enjoy building clean and responsive web applications,  
 exploring UI/UX design, and turning ideas into interactive experiences.
 
----
-## 🔥 GitHub Streak
 
-<p align="center">
-  
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=aayushaa-ghimire&theme=dark&hide_border=true" height="170" alt="GitHub Streak" />
-</p>
-
----
 
 ## 🏆 GitHub Trophies
 

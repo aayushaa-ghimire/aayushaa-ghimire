@@ -14,6 +14,12 @@ exploring UI/UX design, and turning ideas into interactive experiences.
   <img src="https://github-profile-trophy-alpha.vercel.app/?username=aayushaa-ghimire&theme=onedark&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushaa-ghimire&theme=onedark&hide_border=true" alt="GitHub Streak" />
+</p>
+
 ---
 
 ## 🌐 Connect With Me

@@ -28,7 +28,6 @@ exploring UI/UX design, and turning ideas into interactive experiences.
   </a>
 </p>
 
----
 
 # 💻 Tech Stack
 

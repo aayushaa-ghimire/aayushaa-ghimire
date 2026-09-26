@@ -7,7 +7,7 @@ I enjoy building clean and responsive web applications,
 exploring UI/UX design, and turning ideas into interactive experiences.
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aayushaa-ghimire&theme=onedark&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=aayushaa-ghimire&theme=onedark&color=yellow&style=flat-square" alt="Profile Views" />
 </p>
 
 ## 🏆 GitHub Trophies

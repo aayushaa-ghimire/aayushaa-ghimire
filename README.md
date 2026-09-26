@@ -6,10 +6,6 @@ Frontend Developer from Nepal 🇳🇵
 I enjoy building clean and responsive web applications,  
 exploring UI/UX design, and turning ideas into interactive experiences.
 
----
-
-## 👁️ Profile Views
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aayushaa-ghimire&theme=onedark&color=blue&style=flat-square" alt="Profile Views" />
 </p>
